@@ -7,7 +7,7 @@
 [i3wm](https://i3wm.org)
 
 ### Terminal
-[Alacritty](https://alacritty.org/)) \
+[Alacritty](https://alacritty.org/) \
 Theme: Github-Dark
 
 ### App Launcher
