@@ -7,9 +7,20 @@
 [i3wm](https://i3wm.org)
 
 ### Terminal
-[Alacritty](https://alacritty.org/) \
-Theme: Github-Dark
+[Alacritty](https://alacritty.org)
 
 ### App Launcher
 [Rofi](https://github.com/davatorium/rofi) \
-Theme: Arc-Dark from ( rofi-theme-selector )
+Theme: arthur by qball ( rofi-theme-selector )
+
+### Status Bar
+[Polybar](https://github.com/polybar/polybar) \
+Config: launch.sh --forest
+
+### Text editor
+[Neovim](https://neovim.io)
+Config: [AstraNvim](https://astronvim.com)
+
+### Music Visualizer
+[Cava](https://github.com/karlstav/cava)
+Theme: [Dracula Theme](https://draculatheme.com/cava)
