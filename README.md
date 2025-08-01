@@ -20,7 +20,3 @@ Config: launch.sh --forest
 ### Text editor
 [Neovim](https://neovim.io) \
 Config: [AstraNvim](https://astronvim.com)
-
-### Music Visualizer
-[Cava](https://github.com/karlstav/cava) \
-Theme: [Dracula Theme](https://draculatheme.com/cava)
