@@ -11,6 +11,7 @@ xorg-xrandr \
 xorg-xsetroot \
 i3-wm \
 picom \
+feh \
 alacritty \
 rofi \
 polybar \
