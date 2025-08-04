@@ -60,8 +60,6 @@ cd yay
 makepkg -si
 cd ~
 
-sudo pacman -S --needed --noconfirm
-
 sudo pacman -S --needed --noconfirm\
 discord \
 jdk8-openjdk \
