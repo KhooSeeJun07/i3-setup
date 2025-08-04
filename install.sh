@@ -8,6 +8,7 @@ i3-wm \
 picom \
 feh \
 dunst \
+brightnessctl \
 alacritty \
 rofi \
 polybar \
