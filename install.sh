@@ -7,6 +7,7 @@ xorg-xsetroot \
 i3-wm \
 picom \
 feh \
+dunst \
 alacritty \
 rofi \
 polybar \
