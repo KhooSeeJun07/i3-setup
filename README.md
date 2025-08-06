@@ -14,8 +14,7 @@
 Theme: arthur by qball ( rofi-theme-selector )
 
 ### Status Bar
-[Polybar](https://github.com/polybar/polybar) \
-Config: launch.sh --forest
+[Polybar](https://github.com/polybar/polybar)
 
 ### Text editor
 [Neovim](https://neovim.io) \
